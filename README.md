@@ -41,10 +41,6 @@ I’m an enthusiastic and driven individual with a strong background in Electric
   - Kodlasam Academy
   - Duration: 1 year
 
-## 🌱 Currently Learning
-- Advanced data analysis techniques
-- Machine learning algorithms
-
 ## 💬 Looking to Collaborate On
 - Open-source data analysis projects
 - Educational content for electronics and programming
