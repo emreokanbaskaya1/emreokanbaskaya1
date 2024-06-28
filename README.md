@@ -16,10 +16,20 @@ I’m an enthusiastic and driven individual with a strong background in Electric
 ## 💼 Experience
 - **YouTube Channel: Transistörcü**
   - **Role:** Video Editor
-  - **Duration:** 2022 - Present
+  - **Duration:** 04/2023 - Present
   - **Responsibilities:**
     - Editing educational videos on electronics
     - Creating engaging content to simplify complex concepts
+      
+- **Kodlasam**
+  - **Role:** Junior Data Analyst
+  - **Duration:** 06/2023 – Current
+  - **Responsibilities:**
+    - **Excel:** Data analysis, data visualization, and reporting techniques
+    - **Python:** Data manipulation (Pandas), data visualization (Matplotlib, Seaborn), machine learning (Scikit-learn)
+    - **SQL:** Database management, data querying, data extraction, and reporting
+    - **Power BI:** Data modeling, data visualization, creating interactive reports
+
 
 ## 📊 Skills
 - **Programming Languages:** Python, C++
