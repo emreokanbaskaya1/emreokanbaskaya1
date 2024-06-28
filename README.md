@@ -32,8 +32,8 @@ I’m an enthusiastic and driven individual with a strong background in Electric
 
 
 ## 📊 Skills
-- **Programming Languages:** Python, C++
-- **Tools & Technologies:** Excel ,SQL, Power BI
+- **Programming Languages:** Python, C++, C
+- **Tools & Technologies:** Excel ,SQL, Power BI, Arduino
 - **Areas of Expertise:** Data Analysis, Electrical Circuits
 
 ## 🎓 Certifications
