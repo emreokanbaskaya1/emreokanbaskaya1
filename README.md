@@ -1,7 +1,7 @@
 # Hi, I’m Emre Okan Başkaya
 
 ## 👨‍💼 About Me
-I’m an enthusiastic and driven individual with a strong background in Electrical-Electronics Engineering. Currently, I'm a third-year student at Bandırma Onyedi Eylül University with a GPA of 3.50/4. Alongside my studies, I actively work as an editor for the educational YouTube channel Transistörcü.
+I’m an enthusiastic and driven individual with a strong background in Electrical-Electronics Engineering. Currently, I'm a third-year student at Bandırma Onyedi Eylül University with a GPA of 3.43/4. Alongside my studies, I actively work as an editor for the educational YouTube channel Transistörcü.
 
 ## 📚 Education
 - **Bandırma Onyedi Eylül University**
@@ -16,14 +16,14 @@ I’m an enthusiastic and driven individual with a strong background in Electric
 ## 💼 Experience
 - **YouTube Channel: Transistörcü**
   - **Role:** Video Editor
-  - **Duration:** 04/2023 - Current
+  - **Duration:** 04/2024 - 11/2024
   - **Responsibilities:**
     - Editing educational videos on electronics
     - Creating engaging content to simplify complex concepts
       
 - **Kodlasam**
   - **Role:** Junior Data Analyst
-  - **Duration:** 06/2023 – Current
+  - **Duration:** 06/2023 – 06/2024
   - **Responsibilities:**
     - **Excel:** Data analysis, data visualization, and reporting techniques
     - **Python:** Data manipulation (Pandas), data visualization (Matplotlib, Seaborn), machine learning (Scikit-learn)
