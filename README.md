@@ -1,7 +1,7 @@
 # Hi, I’m Emre Okan Başkaya
 
 ## 👨‍💼 About Me
-I’m an enthusiastic and driven individual with a strong background in Electrical-Electronics Engineering. Currently, I'm a third-year student at Bandırma Onyedi Eylül University with a GPA of 3.43/4. Alongside my studies, I actively work as an editor for the educational YouTube channel Transistörcü.
+I’m an enthusiastic and driven individual with a strong background in Electrical-Electronics Engineering. Currently, I'm a third-year student at Bandırma Onyedi Eylül University with a GPA of 3.43/4. 
 
 ## 📚 Education
 - **Bandırma Onyedi Eylül University**
