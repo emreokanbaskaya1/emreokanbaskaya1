@@ -11,7 +11,7 @@ I’m an enthusiastic and driven individual with a strong background in Electric
 
 - **Manisa Celal Bayar University**
   - Associate Degree in Computer Programming
-  - Graduation: 2022
+  - Graduation: 2022(Not Completed)
 
 ## 💼 Experience
 - **YouTube Channel: Transistörcü**
