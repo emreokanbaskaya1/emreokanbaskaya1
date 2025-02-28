@@ -46,7 +46,6 @@ I’m an enthusiastic and driven individual with a strong background in Electric
 - Innovative tech solutions for real-world problems
 
 ## 📫 How to Reach Me
-- **LinkedIn:** (https://www.linkedin.com/in/emreokanbaskaya)
 - **Email:** [emreokanbaskaya@example.com](mailto:emreokanbaskaya@example.com)
 
 
