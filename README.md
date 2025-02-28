@@ -32,10 +32,9 @@ I’m an enthusiastic and driven individual with a strong background in Electric
 
 
 ## 📊 Skills
-- **Programming Languages:** Python, C++, C
-- **Tools & Technologies:** Excel ,SQL, Power BI, Arduino
-- **Areas of Expertise:** Data Analysis, Electrical Circuits
-
+- **Programming Languages:** Python, C++, C, HTML, CSS, JavaScript
+- **Tools & Technologies:** Excel ,SQL, Power BI, Arduino, PostgreSQL
+- **Areas of Expertise:** Data Analysis, Web Development
 ## 🎓 Certifications
 - **Data Analysis Training**
   - Kodlasam Academy
