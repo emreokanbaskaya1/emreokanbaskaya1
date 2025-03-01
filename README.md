@@ -6,7 +6,7 @@ I’m an enthusiastic and driven individual with a strong background in Electric
 ## 📚 Education
 - **Bandırma Onyedi Eylül University**
   - B.Sc. in Electrical-Electronics Engineering
-  - GPA: 3.50/4
+  - GPA: 3.43/4
   - Expected Graduation: 2026
 
 - **Manisa Celal Bayar University**
