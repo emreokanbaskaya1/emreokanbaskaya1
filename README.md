@@ -32,7 +32,7 @@ I’m an enthusiastic and driven individual with a strong background in Electric
 
 
 ## 📊 Skills
-- **Programming Languages:** Python, C++, C, HTML, CSS, JavaScript
+- **Programming Languages:** Python, C++, C, HTML, CSS, JavaScript, React Js, Node Js
 - **Tools & Technologies:** Excel ,SQL, Power BI, Arduino, PostgreSQL
 - **Areas of Expertise:** Data Analysis, Web Development
 ## 🎓 Certifications
