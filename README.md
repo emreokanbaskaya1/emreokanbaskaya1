@@ -13,24 +13,6 @@ I’m an enthusiastic and driven individual with a strong background in Electric
   - Associate Degree in Computer Programming
   - Graduation: 2022(Not Completed)
 
-## 💼 Experience
-- **YouTube Channel: Transistörcü**
-  - **Role:** Video Editor
-  - **Duration:** 04/2024 - 11/2024
-  - **Responsibilities:**
-    - Editing educational videos on electronics
-    - Creating engaging content to simplify complex concepts
-      
-- **Kodlasam**
-  - **Role:** Junior Data Analyst
-  - **Duration:** 06/2023 – 06/2024
-  - **Responsibilities:**
-    - **Excel:** Data analysis, data visualization, and reporting techniques
-    - **Python:** Data manipulation (Pandas), data visualization (Matplotlib, Seaborn), machine learning (Scikit-learn)
-    - **SQL:** Database management, data querying, data extraction, and reporting
-    - **Power BI:** Data modeling, data visualization, creating interactive reports
-
-
 ## 📊 Skills
 - **Programming Languages:** Python, C++, C, HTML, CSS, JavaScript, React Js, Node Js
 - **Tools & Technologies:** Excel ,SQL, Power BI, Arduino, PostgreSQL
