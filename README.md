@@ -14,8 +14,8 @@ I’m an enthusiastic and driven individual with a strong background in Electric
   - Graduation: 2022(Not Completed)
 
 ## 📊 Skills
-- **Programming Languages:** Python, C++, C, HTML, CSS, JavaScript, React Js, Node Js
-- **Tools & Technologies:** Excel ,SQL, Power BI, Arduino, PostgreSQL
+- **Programming Languages:** HTML, CSS, JavaScript, C#
+- **Tools & Technologies:** Excel ,SQL, Power BI, Arduino, PostgreSQL, .NET Framework
 - **Areas of Expertise:** Data Analysis, Web Development
 ## 🎓 Certifications
 - **Data Analysis Training**
