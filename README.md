@@ -15,7 +15,7 @@ I’m an enthusiastic and driven individual with a strong background in Electric
 
 ## 📊 Skills
 - **Programming Languages:** HTML, CSS, JavaScript, C#
-- **Tools & Technologies:** Excel ,SQL, Power BI, Arduino, PostgreSQL, .NET Framework MVC
+- **Tools & Technologies:** Excel ,SQL, Power BI, Arduino, PostgreSQL, MS SQL, .NET Framework MVC
 - **Areas of Expertise:** Data Analysis, Web Development
 ## 🎓 Certifications
 - **Data Analysis Training**
