@@ -1,7 +1,7 @@
 # Hi, I’m Emre Okan Başkaya
 
 ## 👨‍💼 About Me
-I’m an enthusiastic and driven individual with a strong background in Electrical-Electronics Engineering. Currently, I'm a third-year student at Bandırma Onyedi Eylül University with a GPA of 3.43/4. 
+I’m an enthusiastic and driven individual with a strong background in Electrical-Electronics Engineering. Currently, I'm a third-year student at Bandırma Onyedi Eylül University with a GPA of 3.57/4. 
 
 ## 📚 Education
 - **Bandırma Onyedi Eylül University**
