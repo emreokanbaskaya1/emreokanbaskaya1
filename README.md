@@ -14,7 +14,7 @@ I’m an enthusiastic and driven individual with a strong background in Electric
   - Graduation: 2022(Not Completed)
 
 ## 📊 Skills
-- **Programming Languages:** HTML, CSS, JavaScript, C#, Python
+- **Programming Languages:** HTML, CSS, JavaScript, C#,.NET Framework, .NET Core, Python
 - **Tools & Technologies:** Excel ,SQL, Power BI, Arduino, PostgreSQL, MS SQL, .NET Framework MVC
 - **Areas of Expertise:** Data Analysis, Web Development
 ## 🎓 Certifications
