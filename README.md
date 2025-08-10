@@ -17,14 +17,9 @@ I’m an enthusiastic and driven individual with a strong background in Electric
 - **Programming Languages:** HTML, CSS, JavaScript, C#,.NET Framework, .NET Core, Python
 - **Tools & Technologies:** Excel ,SQL, Power BI, Arduino, PostgreSQL, MS SQL, .NET Framework MVC
 - **Areas of Expertise:** Data Analysis, Web Development
-## 🎓 Certifications
-- **Data Analysis Training**
-  - Kodlasam Academy
-  - Duration: 1 year
 
 ## 💬 Looking to Collaborate On
 - Open-source data analysis projects
-- Educational content for electronics and programming
 - Innovative tech solutions for real-world problems
 
 ## 📫 How to Reach Me
