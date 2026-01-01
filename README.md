@@ -1,10 +1,8 @@
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWcwMTZrN2Q1NnF4MjBoMGl2M2pkNjdtM3c4MGQ4eGZsYzg2aDlwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 
-###
 
 <h1 align="center">Hey there 👋</h1>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emre-okan-baskaya/" target="_blank">
