@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/emreokanbaskaya1/emreokanbaskaya1/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/emreokanbaskaya1/output/snake.svg" alt="Snake animation" />
 
 ###
