@@ -52,10 +52,4 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<img src="https://raw.githubusercontent.com/emreokanbaskaya1/output/snake.svg" alt="Snake animation" />
-
-###
