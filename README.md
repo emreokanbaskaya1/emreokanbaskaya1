@@ -13,11 +13,11 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">About Me</h3>
 
 ###
 
-<p align="center">🔭 Working on backend, API, and full-stack projects with ASP.NET Core, C#, and Python.  <br>👯 Open to collaborating on backend and full-stack applications.  <br>🌱 Learning advanced backend concepts, testing, and software architecture.</p>
+<p align="center">- Working on backend, API, and full-stack projects with ASP.NET Core, C#, and Python.  <br>- Open to collaborating on backend and full-stack applications.  <br>- Learning advanced backend concepts, testing, and software architecture.</p>
 
 ###
 
