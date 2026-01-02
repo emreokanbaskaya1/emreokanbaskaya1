@@ -1,6 +1,7 @@
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWcwMTZrN2Q1NnF4MjBoMGl2M2pkNjdtM3c4MGQ4eGZsYzg2aDlwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
 
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWcwMTZrN2Q1NnF4MjBoMGl2M2pkNjdtM3c4MGQ4eGZsYzg2aDlwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EZr27ZbJwmjE9PGyLN/giphy.gif" />
+</div>
 <h1 align="center">Hey there 👋</h1>
 
 
@@ -12,15 +13,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">🔭 Working on backend, API, and full-stack projects with ASP.NET Core, C#, and Python.  <br>👯 Open to collaborating on backend and full-stack applications.  <br>🌱 Learning advanced backend concepts, testing, and software architecture.</p>
+<p align="center">🔭 Working on backend, API, and full-stack projects with ASP.NET Core, C#, and Python.  <br>👯 Open to collaborating on backend and full-stack applications.  <br>🌱 Learning advanced backend concepts, testing, and software architecture.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
