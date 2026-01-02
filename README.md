@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emre-okan-baskaya/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
 
@@ -20,6 +20,7 @@
 <p align="center">🔭 Working on backend, API, and full-stack projects with ASP.NET Core, C#, and Python.  <br>👯 Open to collaborating on backend and full-stack applications.  <br>🌱 Learning advanced backend concepts, testing, and software architecture.</p>
 
 ###
+
 
 <h3 align="center">🛠 Language and tools</h3>
 
