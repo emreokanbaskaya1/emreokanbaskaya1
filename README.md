@@ -19,7 +19,9 @@
 <h3 align="center">About Me</h3>
 
 
-<p align="center">- Working on backend, API, and full-stack projects with ASP.NET Core, C#, and Python.  <br>- Open to collaborating on backend and full-stack applications.  <br>- Learning advanced backend concepts, testing, and software architecture.</p>
+<p align="center">- Building backend, API, full-stack, data science, and machine learning projects using ASP.NET Core, C#, and Python.
+- Open to collaborating on backend systems, full-stack applications, and AI/ML-driven projects.
+- Currently improving my skills in software architecture, testing, data analysis, and machine learning model development.</p>
 
 ###
 
