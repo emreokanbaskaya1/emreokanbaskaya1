@@ -18,10 +18,16 @@
 
 <h3 align="center">About Me</h3>
 
+<div align="center">
+  Building backend, API, full-stack, data science, and machine learning projects using ASP.NET Core, C#, and Python.
+  <br/><br/>
+  Open to collaborating on backend systems, full-stack applications, and AI/ML-driven projects.
+  <br/><br/>
+  Currently improving my skills in data analysis, and machine learning model development.
+</div>
 
-<p align="center">- Building backend, API, full-stack, data science, and machine learning projects using ASP.NET Core, C#, and Python.
-- Open to collaborating on backend systems, full-stack applications, and AI/ML-driven projects.
-- Currently improving my skills in software architecture, testing, data analysis, and machine learning model development.</p>
+<br/>
+
 
 ###
 
